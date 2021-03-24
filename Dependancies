@@ -1,0 +1,6 @@
+pip install pandas_datareader
+pip install yfinance
+pip install matplotlib
+pip install numpy
+pip install scipy
+pip install mplfinance
