@@ -12,6 +12,7 @@ import mplfinance as mpf
 from mplfinance.original_flavor import candlestick_ohlc
 import scipy
 from scipy import stats
+import tkinter as tk
 
 #yahoo finance pandas workaround
 yf.pdr_override()
